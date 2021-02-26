@@ -1,0 +1,24 @@
+{
+  "name": "unilab-project-responsive",
+  "version": "1.0.0",
+  "description": "UniLab Responsive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tazolomtadze/Unilab-project-responsive.git"
+  },
+  "author": "Tazo Lomtadze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tazolomtadze/Unilab-project-responsive/issues"
+  },
+  "homepage": "https://github.com/tazolomtadze/Unilab-project-responsive#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
+  }
+}
